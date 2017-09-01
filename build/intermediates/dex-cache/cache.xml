@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Workspace\VClass2\app\libs\okhttp-2.7.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_508539a66c53a998c4f41f0d227c18eb0a66d752.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\VClass2\app\libs\BmobSDK_3.5.3_20161109.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a63f100145d0cc67ca83a8388baad510a2553c9a">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.3_20161109_3b861fa6fe5f9fa02795f1f7c9cb97beeb77775a.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\VClass2\app\libs\okio-1.11.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\okio-1.11.0_d0840d6d1796958ba0745e90fe59bfc15d75a67d.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\VClass2\app\libs\rxjava-1.1.6.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_3643df5ec164732c76572053f94784e58509fc6e.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\VClass2\app\libs\jsoup-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\jsoup-1.10.1_ec9963274fc3445c6b28c496967551711313ed06.jar" />
+    </item>
+    <item
+        jar="C:\Users\zym\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\gson-2.6.2_31b2771a2e7b4a5105b3b65df12069617e04b7e3.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\VClass2\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_bdfb34c7576cb92ef772a7b7a89b8e5078f74060.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\VClass2\app\libs\Bmob_Push_V1.0.0beta_20160627.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0e1d7fc0e38d0852f61afea9a6da92abb948bf21">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\Bmob_Push_V1.0.0beta_20160627_eaf03acf53d56bf29bcdd9677aaf56be532107d4.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\VClass2\app\libs\rxandroid-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\rxandroid-1.2.0_4a48963c2795f159e8de3689b3f0c17ce0107afb.jar" />
+    </item>
+    <item
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_11e800f3314816754847df441f816234f9a502a1.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\VClass2\app\libs\jackson-all-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="45ce8390f1dc85719fa7124141b21d2a18e1363e">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\jackson-all-1.9.2_45eda314bcc19d39574c73669cd07fc3fe68978e.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\VClass2\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\Workspace\VClass2\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14_52b7fcea3efda4bd155f491f2bf85b55ae7c0ca6.jar" />
+    </item>
+
+</items>

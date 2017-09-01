@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="52dp"
+    android:background="#F0F0F0"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/bottom_tab_shouye"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/bottom_img_shouye"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:background="#0000"
+            android:clickable="false"
+            android:src="@drawable/home_black" />
+
+        <TextView
+            android:id="@+id/bottom_txt_shouye"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/bottom_shouye" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_tab_fenlei"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/bottom_img_fenlei"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:background="#0000"
+            android:clickable="false"
+            android:src="@drawable/fenlei_black" />
+
+        <TextView
+            android:id="@+id/bottom_txt_fenlei"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/bottom_fenlei" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_tab_xuexi"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/bottom_img_xuexi"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:background="#0000"
+            android:clickable="false"
+            android:src="@drawable/xuexi_black" />
+
+        <TextView
+            android:id="@+id/bottom_txt_xuexi"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/bottom_xuexi" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_tab_geren"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/bottom_img_geren"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:background="#0000"
+            android:clickable="false"
+            android:src="@drawable/geren_black" />
+
+        <TextView
+            android:id="@+id/bootom_txt_geren"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/bottom_geren" />
+    </LinearLayout>
+
+</LinearLayout>

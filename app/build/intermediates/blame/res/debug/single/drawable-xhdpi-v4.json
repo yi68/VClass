@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fullscreen.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xhdpi\\fullscreen.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pause_disable.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xhdpi\\pause_disable.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pagenow.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xhdpi\\pagenow.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\play_bt_disable.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xhdpi\\play_bt_disable.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xhdpi\\page.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\play_bt_pressed.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xhdpi\\play_bt_pressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_change.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_change.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\play_bt.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xhdpi\\play_bt.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pause_pressed.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xhdpi\\pause_pressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pause_bt.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xhdpi\\pause_bt.png"
+    }
+]

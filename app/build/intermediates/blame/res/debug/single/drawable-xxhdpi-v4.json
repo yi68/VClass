@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher_change.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_change.png"
+    }
+]

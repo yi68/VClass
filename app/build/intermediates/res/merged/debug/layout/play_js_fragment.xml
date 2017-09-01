@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/play_js_fragment_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="课程介绍Fragment"
+            android:textSize="22sp" />
+    </ScrollView>
+</LinearLayout>

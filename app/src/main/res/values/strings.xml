@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">V课堂</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="top_title">V课堂</string>
+    <string name="bottom_shouye">首页</string>
+    <string name="bottom_fenlei">分类</string>
+    <string name="bottom_xuexi">我的学习</string>
+    <string name="bottom_geren">个人中心</string>
+    <string name="login">登陆</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

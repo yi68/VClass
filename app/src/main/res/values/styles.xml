@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <style name="login" parent="@android:style/Theme.Holo.Light"></style>
+
+</resources>

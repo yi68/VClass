@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xuexi_black.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\xuexi_black.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\info_black.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\info_black.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guid_3.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\guid_3.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_change.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_change.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_blue.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\home_blue.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guid_2.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\guid_2.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\forward_grey.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\forward_grey.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren_black.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\geren_black.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xuexi_blue.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\xuexi_blue.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\geren_blue.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\geren_blue.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_black.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\settings_black.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fenlei_black.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\fenlei_black.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guid_1.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\guid_1.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_black.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\home_black.png"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fenlei_blue.png",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable-hdpi\\fenlei_blue.png"
+    }
+]

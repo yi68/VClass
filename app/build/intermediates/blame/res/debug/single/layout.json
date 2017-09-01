@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_geren_list_style.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_geren_list_style.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\images.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\images.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\g_img2.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\g_img2.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_lis_fragment.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\play_lis_fragment.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\g_main.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\g_main.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_fenlei.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_fenlei.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_fenlei_list_style.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_fenlei_list_style.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\g_img3.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\g_img3.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_pl_fragment_style.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\play_pl_fragment_style.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\bottom.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_pl_fragment.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\play_pl_fragment.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_shouye_main.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_shouye_main.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_js_fragment.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\play_js_fragment.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_shouye.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_shouye.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_message_main.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\play_message_main.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_lis_fragment_style.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\play_lis_fragment_style.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_book_data_style.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_book_data_style.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_fenlei_data.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_fenlei_data.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_xuexi.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_xuexi.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_book_data.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_book_data.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_geren.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_geren.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_shouye_main_style.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_shouye_main_style.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_fenlei_data_style.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_fenlei_data_style.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\g_img1.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\g_img1.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\v_shouye_ad.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\layout\\v_shouye_ad.xml"
+    }
+]

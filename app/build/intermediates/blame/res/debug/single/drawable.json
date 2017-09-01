@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_bt_style.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable\\play_bt_style.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\VClass2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_bt_style.xml",
+        "source": "E:\\Workspace\\VClass2\\app\\src\\main\\res\\drawable\\pause_bt_style.xml"
+    }
+]
